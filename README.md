@@ -99,9 +99,7 @@ streamlit run app.py
 
 ## 🧠 Contributors
 
-- **Sai Kiran Reddy Pothuganti**  
-- **Vivek Varma Rudraraju**
-
+- Sai Kiran Reddy Pothuganti
 ---
 
 ## 📸 App Previews
